@@ -1,0 +1,10 @@
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\bin\Debug\MagnifierApp.exe.config
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\bin\Debug\MagnifierApp.exe
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\bin\Debug\MagnifierApp.pdb
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\obj\Debug\MagnifierApp.csproj.AssemblyReference.cache
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\obj\Debug\MagnifierApp.Form1.resources
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\obj\Debug\MagnifierApp.Properties.Resources.resources
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\obj\Debug\MagnifierApp.csproj.GenerateResource.cache
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\obj\Debug\MagnifierApp.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\obj\Debug\MagnifierApp.exe
+C:\Visual Studio\Udemy\BlogMVC\MagnifierApp\obj\Debug\MagnifierApp.pdb
